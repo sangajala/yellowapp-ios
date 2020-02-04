@@ -1,0 +1,6 @@
+framework module Pods_YELLOW_APP {
+  umbrella header "Pods-YELLOW APP-umbrella.h"
+
+  export *
+  module * { export * }
+}
